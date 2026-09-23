@@ -33,5 +33,4 @@ NHIỆM VỤ 3: LẬP LỊCH THỰC THI & TỐI ƯU SỰ TẬP TRUNG (15 Phút)
 Mục tiêu: Chuyển hóa danh sách công viêc (Đặc biệt chú ý 6 công việc quan trọng nhất cần sắp xếp ưu tiên hàng đầu và vào thời gian phù hợp) thành lịch trình thời gian cụ thể (Time Blocking) và gắn nhịp tập trung đơn nhiệm (Pomodoro).
 Nhiệm vụ của Sinh viên: Phân bổ  công việc  vào các khung giờ cố định trong ngày, xác định số phiên Pomodoro (25 phút/phiên, nghỉ 5p, sau 4 phiên cần nghỉ 15-30 phút) cần thiết cho mỗi công việc. Một công việc có thể có nhiều phiên.
 Lưu ý: Cần có thời gian đệm nữa cho việc nghỉ ngơi...
-Công cụ: Các bạn có thế sử dụng google calender:
-This content is only supported in a Lark Docs
+  
